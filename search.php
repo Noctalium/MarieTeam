@@ -1,7 +1,7 @@
 <?php
 //if (isset($_GET) && !empty($_GET))
 //{
-require("global.php");
+//require("global.php");
 
 ?>
 
